@@ -1,0 +1,516 @@
+                                             result.lowlevel.average_loudness.ToString() + ";"
+
+                    //                                    + result.lowlevel.barkbands_crest.max.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_crest.mean.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_crest.median.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_crest.min.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_crest.var.ToString() + ";"
+
+                    //                                    + result.lowlevel.barkbands_flatness_db.max.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_flatness_db.mean.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_flatness_db.median.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_flatness_db.min.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_flatness_db.var.ToString() + ";"
+
+                    //                                    + result.lowlevel.barkbands_kurtosis.max.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_kurtosis.mean.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_kurtosis.median.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_kurtosis.min.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_kurtosis.var.ToString() + ";"
+
+                    //                                    + result.lowlevel.barkbands_skewness.max.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_skewness.mean.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_skewness.median.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_skewness.min.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_skewness.var.ToString() + ";"
+
+                    //                                    + result.lowlevel.barkbands_spread.max.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_spread.mean.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_spread.median.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_spread.min.ToString() + ";"
+                    //                                    + result.lowlevel.barkbands_spread.var.ToString() + ";"
+
+                                                        //+ result.lowlevel.dissonance.max.ToString() + ";"
+                                                        + result.lowlevel.dissonance.mean.ToString() + ";"
+                                                        //+ result.lowlevel.dissonance.median.ToString() + ";"
+                                                       // + result.lowlevel.dissonance.min.ToString() + ";"
+                                                        //+ result.lowlevel.dissonance.var.ToString() + ";"
+
+                                                        + result.lowlevel.dynamic_complexity.ToString() + ";"
+
+                    //                                    + result.lowlevel.erbbands_crest.max.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_crest.mean.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_crest.median.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_crest.min.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_crest.var.ToString() + ";"
+
+                    //                                    + result.lowlevel.erbbands_flatness_db.max.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_flatness_db.mean.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_flatness_db.median.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_flatness_db.min.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_flatness_db.var.ToString() + ";"
+
+                    //                                    + result.lowlevel.erbbands_kurtosis.max.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_kurtosis.mean.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_kurtosis.median.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_kurtosis.min.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_kurtosis.var.ToString() + ";"
+
+                    //                                    + result.lowlevel.erbbands_skewness.max.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_skewness.mean.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_skewness.median.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_skewness.min.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_skewness.var.ToString() + ";"
+
+                    //                                    + result.lowlevel.erbbands_spread.max.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_spread.mean.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_spread.median.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_spread.min.ToString() + ";"
+                    //                                    + result.lowlevel.erbbands_spread.var.ToString() + ";"
+
+                                                        + result.lowlevel.hfc.max.ToString() + ";"
+                                                        + result.lowlevel.hfc.mean.ToString() + ";"
+                                                         + result.lowlevel.hfc.median.ToString() + ";"
+                                                        + result.lowlevel.hfc.min.ToString() + ";"
+                    // + result.lowlevel.hfc.var.ToString() + ";"
+
+                                                        + result.lowlevel.melbands_crest.max.ToString() + ";"
+                                                        + result.lowlevel.melbands_crest.mean.ToString() + ";"
+                                 + result.lowlevel.melbands_crest.median.ToString() + ";"
+                                + result.lowlevel.melbands_crest.min.ToString() + ";"
+                    //+ result.lowlevel.melbands_crest.var.ToString() + ";"
+
+                                                        + result.lowlevel.melbands_flatness_db.max.ToString() + ";"
+                                                        + result.lowlevel.melbands_flatness_db.mean.ToString() + ";"
+                                 + result.lowlevel.melbands_flatness_db.median.ToString() + ";"
+                                + result.lowlevel.melbands_flatness_db.min.ToString() + ";"
+                    //+ result.lowlevel.melbands_flatness_db.var.ToString() + ";"
+
+                                                        + result.lowlevel.melbands_kurtosis.max.ToString() + ";"
+                                                        + result.lowlevel.melbands_kurtosis.mean.ToString() + ";"
+                                 + result.lowlevel.melbands_kurtosis.median.ToString() + ";"
+                                + result.lowlevel.melbands_kurtosis.min.ToString() + ";"
+                    //+ result.lowlevel.melbands_kurtosis.var.ToString() + ";"
+
+                                                        + result.lowlevel.melbands_skewness.max.ToString() + ";"
+                                                        + result.lowlevel.melbands_skewness.mean.ToString() + ";"
+                                + result.lowlevel.melbands_skewness.median.ToString() + ";"
+                                + result.lowlevel.melbands_skewness.min.ToString() + ";"
+                    // + result.lowlevel.melbands_skewness.var.ToString() + ";"
+
+                                                        + result.lowlevel.melbands_spread.max.ToString() + ";"
+                                                        + result.lowlevel.melbands_spread.mean.ToString() + ";"
+                                 + result.lowlevel.melbands_spread.median.ToString() + ";"
+                                + result.lowlevel.melbands_spread.min.ToString() + ";"
+                    // + result.lowlevel.melbands_spread.var.ToString() + ";"
+
+                                                        + result.lowlevel.pitch_salience.max.ToString() + ";"
+                                                        + result.lowlevel.pitch_salience.mean.ToString() + ";"
+                                 + result.lowlevel.pitch_salience.median.ToString() + ";"
+                                + result.lowlevel.pitch_salience.min.ToString() + ";"
+                    //+ result.lowlevel.pitch_salience.var.ToString() + ";"
+
+                                                        + result.lowlevel.silence_rate_20dB.max.ToString() + ";"
+                                                        + result.lowlevel.silence_rate_20dB.mean.ToString() + ";"
+                                 + result.lowlevel.silence_rate_20dB.median.ToString() + ";"
+                                + result.lowlevel.silence_rate_20dB.min.ToString() + ";"
+                    //+ result.lowlevel.silence_rate_20dB.var.ToString() + ";"
+
+                                                        + result.lowlevel.silence_rate_30dB.max.ToString() + ";"
+                                                        + result.lowlevel.silence_rate_30dB.mean.ToString() + ";"
+                                 + result.lowlevel.silence_rate_30dB.median.ToString() + ";"
+                                + result.lowlevel.silence_rate_30dB.min.ToString() + ";"
+                    // + result.lowlevel.silence_rate_30dB.var.ToString() + ";"
+
+                                                        + result.lowlevel.silence_rate_60dB.max.ToString() + ";"
+                                                        + result.lowlevel.silence_rate_60dB.mean.ToString() + ";"
+                                + result.lowlevel.silence_rate_60dB.median.ToString() + ";"
+                                + result.lowlevel.silence_rate_60dB.min.ToString() + ";"
+                    //+ result.lowlevel.silence_rate_60dB.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_centroid.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_centroid.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_centroid.median.ToString() + ";"
+                                + result.lowlevel.spectral_centroid.min.ToString() + ";"
+                    //+ result.lowlevel.spectral_centroid.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_complexity.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_complexity.mean.ToString() + ";"
+                                + result.lowlevel.spectral_complexity.median.ToString() + ";"
+                                + result.lowlevel.spectral_complexity.min.ToString() + ";"
+                    // + result.lowlevel.spectral_complexity.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_decrease.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_decrease.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_decrease.median.ToString() + ";"
+                                + result.lowlevel.spectral_decrease.min.ToString() + ";"
+                    //+ result.lowlevel.spectral_decrease.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_energy.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_energy.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_energy.median.ToString() + ";"
+                                + result.lowlevel.spectral_energy.min.ToString() + ";"
+                    //  + result.lowlevel.spectral_energy.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_energyband_high.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_energyband_high.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_energyband_high.median.ToString() + ";"
+                                + result.lowlevel.spectral_energyband_high.min.ToString() + ";"
+                    // + result.lowlevel.spectral_energyband_high.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_energyband_low.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_energyband_low.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_energyband_low.median.ToString() + ";"
+                                + result.lowlevel.spectral_energyband_low.min.ToString() + ";"
+                    //+ result.lowlevel.spectral_energyband_low.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_energyband_middle_high.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_energyband_middle_high.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_energyband_middle_high.median.ToString() + ";"
+                                + result.lowlevel.spectral_energyband_middle_high.min.ToString() + ";"
+                    //+ result.lowlevel.spectral_energyband_middle_high.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_energyband_middle_low.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_energyband_middle_low.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_energyband_middle_low.median.ToString() + ";"
+                                + result.lowlevel.spectral_energyband_middle_low.min.ToString() + ";"
+                    //+ result.lowlevel.spectral_energyband_middle_low.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_entropy.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_entropy.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_entropy.median.ToString() + ";"
+                                + result.lowlevel.spectral_entropy.min.ToString() + ";"
+                    //+ result.lowlevel.spectral_entropy.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_flux.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_flux.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_flux.median.ToString() + ";"
+                                + result.lowlevel.spectral_flux.min.ToString() + ";"
+                    // + result.lowlevel.spectral_flux.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_kurtosis.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_kurtosis.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_kurtosis.median.ToString() + ";"
+                                + result.lowlevel.spectral_kurtosis.min.ToString() + ";"
+                    // + result.lowlevel.spectral_kurtosis.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_rms.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_rms.mean.ToString() + ";"
+                                + result.lowlevel.spectral_rms.median.ToString() + ";"
+                                + result.lowlevel.spectral_rms.min.ToString() + ";"
+                    // + result.lowlevel.spectral_rms.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_rolloff.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_rolloff.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_rolloff.median.ToString() + ";"
+                                + result.lowlevel.spectral_rolloff.min.ToString() + ";"
+                    // + result.lowlevel.spectral_rolloff.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_skewness.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_skewness.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_skewness.median.ToString() + ";"
+                                + result.lowlevel.spectral_skewness.min.ToString() + ";"
+                    // + result.lowlevel.spectral_skewness.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_spread.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_spread.mean.ToString() + ";"
+                                 + result.lowlevel.spectral_spread.median.ToString() + ";"
+                                + result.lowlevel.spectral_spread.min.ToString() + ";"
+                    // + result.lowlevel.spectral_spread.var.ToString() + ";"
+
+                                                        + result.lowlevel.spectral_strongpeak.max.ToString() + ";"
+                                                        + result.lowlevel.spectral_strongpeak.mean.ToString() + ";"
+                                + result.lowlevel.spectral_strongpeak.median.ToString() + ";"
+                                + result.lowlevel.spectral_strongpeak.min.ToString() + ";"
+                    //+ result.lowlevel.spectral_strongpeak.var.ToString() + ";"
+
+                                                        + result.lowlevel.zerocrossingrate.max.ToString() + ";"
+                                                        + result.lowlevel.zerocrossingrate.mean.ToString() + ";"
+                                 + result.lowlevel.zerocrossingrate.median.ToString() + ";"
+                                + result.lowlevel.zerocrossingrate.min.ToString() + ";"
+                    //+ result.lowlevel.zerocrossingrate.var.ToString() + ";"
+
+                                           // + result.rhythm.beats_count.ToString() + ";"
+                    //  + result.rhythm.beats_loudness.mean.ToString() + ";"
+                    // + result.rhythm.bpm.ToString() + ";"
+                    //  + result.rhythm.bpm_histogram_first_peak_bpm.mean.ToString() + ";"
+                    //  + result.rhythm.bpm_histogram_first_peak_weight.mean.ToString() + ";"
+                    //  + result.rhythm.bpm_histogram_second_peak_bpm.mean.ToString() + ";"
+                    //   + result.rhythm.bpm_histogram_second_peak_spread.mean.ToString() + ";"
+                    //  + result.rhythm.bpm_histogram_second_peak_weight.mean.ToString() + ";"
+
+                                           // + result.tonal.chords_changes_rate.ToString() + ";"
+                    // + result.tonal.chords_number_rate.ToString() + ";"
+                    //  + result.tonal.chords_strength.mean.ToString() + ";"
+                    // + result.tonal.hpcp_entropy.mean.ToString() + ";"
+                    //  + result.tonal.key_strength.ToString() + ";"
+                    //  + result.tonal.tuning_diatonic_strength.ToString() + ";"
+                    //  + result.tonal.tuning_equal_tempered_deviation.ToString() + ";"
+                    // + result.tonal.tuning_frequency.ToString() + ";"
+                    //  + result.tonal.tuning_nontempered_energy_ratio.ToString() + ";"
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+  result.lowlevel.average_loudness, 
+
+                                            result.lowlevel.barkbands_crest.max,
+                                            result.lowlevel.barkbands_crest.mean,
+                                            result.lowlevel.barkbands_crest.median,
+                                            result.lowlevel.barkbands_crest.min,
+                                            //result.lowlevel.barkbands_crest.var,
+
+                                            result.lowlevel.barkbands_flatness_db.max,
+                                            result.lowlevel.barkbands_flatness_db.mean,
+                                            result.lowlevel.barkbands_flatness_db.median,
+                                            result.lowlevel.barkbands_flatness_db.min,
+                                            //result.lowlevel.barkbands_flatness_db.var,
+
+                                            result.lowlevel.barkbands_kurtosis.max,
+                                            result.lowlevel.barkbands_kurtosis.mean,
+                                            result.lowlevel.barkbands_kurtosis.median,
+                                            result.lowlevel.barkbands_kurtosis.min,
+                                            //result.lowlevel.barkbands_kurtosis.var,
+
+                                            result.lowlevel.barkbands_skewness.max,
+                                            result.lowlevel.barkbands_skewness.mean,
+                                            result.lowlevel.barkbands_skewness.median,
+                                            result.lowlevel.barkbands_skewness.min,
+                                            //result.lowlevel.barkbands_skewness.var,
+
+                                            result.lowlevel.barkbands_spread.max,
+                                            result.lowlevel.barkbands_spread.mean,
+                                            result.lowlevel.barkbands_spread.median,
+                                            result.lowlevel.barkbands_spread.min,
+                                            //result.lowlevel.barkbands_spread.var,
+
+                                            result.lowlevel.dissonance.max,
+                                            result.lowlevel.dissonance.mean,
+                                            result.lowlevel.dissonance.median,
+                                            result.lowlevel.dissonance.min,
+                                            //result.lowlevel.dissonance.var,
+
+                                            result.lowlevel.dynamic_complexity,
+
+
+                                            result.lowlevel.erbbands_crest.max,
+                                            result.lowlevel.erbbands_crest.mean,
+                                            result.lowlevel.erbbands_crest.median,
+                                            result.lowlevel.erbbands_crest.min,
+                                            //result.lowlevel.erbbands_crest.var,
+
+                                            result.lowlevel.erbbands_flatness_db.max,
+                                            result.lowlevel.erbbands_flatness_db.mean,
+                                            result.lowlevel.erbbands_flatness_db.median,
+                                            result.lowlevel.erbbands_flatness_db.min,
+                                            //result.lowlevel.erbbands_flatness_db.var,
+
+                                            result.lowlevel.erbbands_kurtosis.max,
+                                            result.lowlevel.erbbands_kurtosis.mean,
+                                            result.lowlevel.erbbands_kurtosis.median,
+                                            result.lowlevel.erbbands_kurtosis.min,
+                                            //result.lowlevel.erbbands_kurtosis.var,
+
+                                            result.lowlevel.erbbands_skewness.max,
+                                            result.lowlevel.erbbands_skewness.mean,
+                                            result.lowlevel.erbbands_skewness.median,
+                                            result.lowlevel.erbbands_skewness.min,
+                                            //result.lowlevel.erbbands_skewness.var,
+
+                                            result.lowlevel.erbbands_spread.max,
+                                            result.lowlevel.erbbands_spread.mean,
+                                            result.lowlevel.erbbands_spread.median,
+                                            result.lowlevel.erbbands_spread.min,
+                                            //result.lowlevel.erbbands_spread.var,
+
+                                            result.lowlevel.hfc.max,
+                                            result.lowlevel.hfc.mean,
+                                            result.lowlevel.hfc.median,
+                                            result.lowlevel.hfc.min,
+                                            //result.lowlevel.hfc.var,
+
+                                            result.lowlevel.melbands_crest.max,
+                                            result.lowlevel.melbands_crest.mean,
+                                            result.lowlevel.melbands_crest.median,
+                                            result.lowlevel.melbands_crest.min,
+                                            //result.lowlevel.melbands_crest.var,
+
+                                            result.lowlevel.melbands_flatness_db.max,
+                                            result.lowlevel.melbands_flatness_db.mean,
+                                            result.lowlevel.melbands_flatness_db.median,
+                                            result.lowlevel.melbands_flatness_db.min,
+                                            //result.lowlevel.melbands_flatness_db.var,
+
+                                            result.lowlevel.melbands_kurtosis.max,
+                                            result.lowlevel.melbands_kurtosis.mean,
+                                            result.lowlevel.melbands_kurtosis.median,
+                                            result.lowlevel.melbands_kurtosis.min,
+                                            //result.lowlevel.melbands_kurtosis.var,
+
+                                            result.lowlevel.melbands_skewness.max,
+                                            result.lowlevel.melbands_skewness.mean,
+                                            result.lowlevel.melbands_skewness.median,
+                                            result.lowlevel.melbands_skewness.min,
+                                            //result.lowlevel.melbands_skewness.var,
+
+                                            result.lowlevel.melbands_spread.max,
+                                            result.lowlevel.melbands_spread.mean,
+                                            result.lowlevel.melbands_spread.median,
+                                            result.lowlevel.melbands_spread.min,
+                                            //result.lowlevel.melbands_spread.var,
+        
+                                            result.lowlevel.pitch_salience.max,
+                                            result.lowlevel.pitch_salience.mean,
+                                            result.lowlevel.pitch_salience.median,
+                                            result.lowlevel.pitch_salience.min,
+                                            //result.lowlevel.pitch_salience.var,
+
+                                            result.lowlevel.silence_rate_20dB.max,
+                                            result.lowlevel.silence_rate_20dB.mean,
+                                            result.lowlevel.silence_rate_20dB.median,
+                                            result.lowlevel.silence_rate_20dB.min,
+                                            //result.lowlevel.silence_rate_20dB.var,
+
+                                            result.lowlevel.silence_rate_30dB.max,
+                                            result.lowlevel.silence_rate_30dB.mean,
+                                            result.lowlevel.silence_rate_30dB.median,
+                                            result.lowlevel.silence_rate_30dB.min,
+                                            //result.lowlevel.silence_rate_30dB.var,
+                                                                                                                                                                                                               
+                                            result.lowlevel.silence_rate_60dB.max,
+                                            result.lowlevel.silence_rate_60dB.mean,
+                                            result.lowlevel.silence_rate_60dB.median,
+                                            result.lowlevel.silence_rate_60dB.min,
+                                            //result.lowlevel.silence_rate_60dB.var,
+
+                                            result.lowlevel.spectral_centroid.max,
+                                            result.lowlevel.spectral_centroid.mean,
+                                            result.lowlevel.spectral_centroid.median,
+                                            result.lowlevel.spectral_centroid.min,
+                                            //result.lowlevel.spectral_centroid.var,
+
+                                            result.lowlevel.spectral_complexity.max,
+                                            result.lowlevel.spectral_complexity.mean,
+                                            result.lowlevel.spectral_complexity.median,
+                                            result.lowlevel.spectral_complexity.min,
+                                            //result.lowlevel.spectral_complexity.var,
+
+                                            result.lowlevel.spectral_decrease.max,
+                                            result.lowlevel.spectral_decrease.mean,
+                                            result.lowlevel.spectral_decrease.median,
+                                            result.lowlevel.spectral_decrease.min,
+                                            //result.lowlevel.spectral_decrease.var,
+
+                                            result.lowlevel.spectral_energy.max,
+                                            result.lowlevel.spectral_energy.mean,
+                                            result.lowlevel.spectral_energy.median,
+                                            result.lowlevel.spectral_energy.min,
+                                            //result.lowlevel.spectral_energy.var,
+
+                                            result.lowlevel.spectral_energyband_high.max,
+                                            result.lowlevel.spectral_energyband_high.mean,
+                                            result.lowlevel.spectral_energyband_high.median,
+                                            result.lowlevel.spectral_energyband_high.min,
+                                            //result.lowlevel.spectral_energyband_high.var,
+
+                                            result.lowlevel.spectral_energyband_low.max,
+                                            result.lowlevel.spectral_energyband_low.mean,
+                                            result.lowlevel.spectral_energyband_low.median,
+                                            result.lowlevel.spectral_energyband_low.min,
+                                            //result.lowlevel.spectral_energyband_low.var,
+
+                                            result.lowlevel.spectral_energyband_middle_high.max,
+                                            result.lowlevel.spectral_energyband_middle_high.mean,
+                                            result.lowlevel.spectral_energyband_middle_high.median,
+                                            result.lowlevel.spectral_energyband_middle_high.min,
+                                            //result.lowlevel.spectral_energyband_middle_high.var,
+
+                                            result.lowlevel.spectral_energyband_middle_low.max,
+                                            result.lowlevel.spectral_energyband_middle_low.mean,
+                                            result.lowlevel.spectral_energyband_middle_low.median,
+                                            result.lowlevel.spectral_energyband_middle_low.min,
+                                            //result.lowlevel.spectral_energyband_middle_low.var,
+
+                                            result.lowlevel.spectral_entropy.max,
+                                            result.lowlevel.spectral_entropy.mean,
+                                            result.lowlevel.spectral_entropy.median,
+                                            result.lowlevel.spectral_entropy.min,
+                                            //result.lowlevel.spectral_entropy.var,
+
+                                            result.lowlevel.spectral_flux.max,
+                                            result.lowlevel.spectral_flux.mean,
+                                            result.lowlevel.spectral_flux.median,
+                                            result.lowlevel.spectral_flux.min,
+                                            //result.lowlevel.spectral_flux.var,
+
+                                            result.lowlevel.spectral_kurtosis.max,
+                                            result.lowlevel.spectral_kurtosis.mean,
+                                            result.lowlevel.spectral_kurtosis.median,
+                                            result.lowlevel.spectral_kurtosis.min,
+                                            //result.lowlevel.spectral_kurtosis.var,
+
+                                            result.lowlevel.spectral_rms.max,
+                                            result.lowlevel.spectral_rms.mean,
+                                            result.lowlevel.spectral_rms.median,
+                                            result.lowlevel.spectral_rms.min,
+                                            //result.lowlevel.spectral_rms.var,
+
+                                            result.lowlevel.spectral_rolloff.max,
+                                            result.lowlevel.spectral_rolloff.mean,
+                                            result.lowlevel.spectral_rolloff.median,
+                                            result.lowlevel.spectral_rolloff.min,
+                                            //result.lowlevel.spectral_rolloff.var,
+
+                                            result.lowlevel.spectral_skewness.max,
+                                            result.lowlevel.spectral_skewness.mean,
+                                            result.lowlevel.spectral_skewness.median,
+                                            result.lowlevel.spectral_skewness.min,
+                                            //result.lowlevel.spectral_skewness.var,
+
+                                            result.lowlevel.spectral_spread.max,
+                                            result.lowlevel.spectral_spread.mean,
+                                            result.lowlevel.spectral_spread.median,
+                                            result.lowlevel.spectral_spread.min,
+                                            //result.lowlevel.spectral_spread.var,
+
+                                            result.lowlevel.spectral_strongpeak.max,
+                                            result.lowlevel.spectral_strongpeak.mean,
+                                            result.lowlevel.spectral_strongpeak.median,
+                                            result.lowlevel.spectral_strongpeak.min,
+                                            //result.lowlevel.spectral_strongpeak.var,
+
+                                            result.lowlevel.zerocrossingrate.max,
+                                            result.lowlevel.zerocrossingrate.mean,
+                                            result.lowlevel.zerocrossingrate.median,
+                                            result.lowlevel.zerocrossingrate.min,
+                                            //result.lowlevel.zerocrossingrate.var,
+
+                                           // result.rhythm.beats_count,
+                                           // result.rhythm.beats_loudness.mean,
+                                           // result.rhythm.bpm,
+                                           // result.rhythm.bpm_histogram_first_peak_bpm.mean,
+                                           // result.rhythm.bpm_histogram_first_peak_weight.mean,
+                                           // result.rhythm.bpm_histogram_second_peak_bpm.mean,
+                                           // result.rhythm.bpm_histogram_second_peak_spread.mean,
+                                           // result.rhythm.bpm_histogram_second_peak_weight.mean,
+
+                                            //result.tonal.chords_changes_rate,
+                                            //result.tonal.chords_number_rate,
+                                            //result.tonal.chords_strength.mean,
+                                            //result.tonal.hpcp_entropy.mean,
+                                            //result.tonal.key_strength,
+                                            //result.tonal.tuning_diatonic_strength,
+                                            //result.tonal.tuning_equal_tempered_deviation,
+                                            //result.tonal.tuning_frequency,
+                                            //result.tonal.tuning_nontempered_energy_ratio					
+					
+					
+					
